@@ -12,7 +12,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 'http://sergiojimenez.github.io/criticas_del_doctor_Mabuse'
 rss:                 rss feed url
-baseurl:            'http://sergiojimenez.github.io/criticas_del_doctor_Mabuse'
+baseurl:             /criticas_del_doctor_Mabuse
 baseurl_posts_img:   'assets/images/posts/'
 baseurl_featured_img: 'assets/images/hero/'
 baseurl_featured_thumbnail: 'assets/images/thumbnail/'
