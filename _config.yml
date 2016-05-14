@@ -1,8 +1,4 @@
 
-# Syntax highlighting
-markdown:            kramdown
-highlighter:         pygments
-
 # Permalinks
 permalink:           /:title
 relative_permalinks: false
