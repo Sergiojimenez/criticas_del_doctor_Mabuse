@@ -1,11 +1,11 @@
 
 # Syntax highlighting
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
@@ -14,7 +14,7 @@ name:				         site name
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 /criticas_del_doctor_Mabuse
+url:                 site url
 rss:                 rss feed url
 baseurl:             ''
 baseurl_posts_img:   '/assets/images/posts/'
