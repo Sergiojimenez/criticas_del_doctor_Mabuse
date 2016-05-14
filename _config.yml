@@ -10,7 +10,7 @@ name:				         site name
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 '/criticas_del_doctor_Mabuse/'
+url:                 'http://sergiojimenez.github.io/criticas_del_doctor_Mabuse/'
 rss:                 rss feed url
 baseurl:             ''
 baseurl_posts_img:   'assets/images/posts/'
