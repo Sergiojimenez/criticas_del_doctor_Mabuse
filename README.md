@@ -1,1 +1,1 @@
-# criticas_del_doctor_Mabuse
+# Críticas del Doctor Mabuse
