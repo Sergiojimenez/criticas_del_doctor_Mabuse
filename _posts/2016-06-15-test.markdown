@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Test"
+date:   1930-01-13 01:00:00
+date:   1930-01-13 01:00:00
+excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
+categories: history
+tags:  mickey
+image:
+  feature: mickey-comics.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
+
+OLA K ASE
